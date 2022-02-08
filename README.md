@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anna Sonkoly
-- 📫 How to reach me: e-mail: anna.sonkoly@randstad.hu
+- 📫 How to reach me: anna.sonkoly@randstad.hu
 
 <!---
 SonkolyA/SonkolyA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
